@@ -8,7 +8,7 @@
 | 2    | Aprende algoritmos en programación |
 | 3    | Conoce los lenguajes de programación que están en el mercado |
 | 3    | Elije un lenguaje de programación fácil de aprender (javascript) |
-| 3    | Investiga su sintaxis (estructuras de datos, de control, manejo de erores, ciclos de vida, atributos, propiedades, iteradores, condicionales, bucles) |
+| 3    | Investiga su sintaxis (estructuras de datos, de control, manejo de erores, ciclos de vida, atributos, propiedades, iteradores, condicionales, bucles, clases, funciones, objetos, variables) |
 | 5    | Entiende primero que son las estructuras de Datos |
 
 **Nivel 2: Programación Intermedia**
